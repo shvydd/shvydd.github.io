@@ -1,7 +1,16 @@
-dmit.shvyd@gmail.com<br>
+---
+layout: default
+title: Dim Shvydkoy
+permalink: /
+---
+
+## Contacts
+
+[dmit.shvyd@gmail.com](mailto:dmit.shvyd@gmail.com)<br>
 [www.linkedin.com/in/shvydd/](https://www.linkedin.com/in/shvydd/)
 
-# Projects
+
+## Projects
 
 - [CMagneto](https://gitlab.com/dishsoftware/cmagneto)
 - [ProgressTree (under construction)](https://gitlab.com/dishsoftware/progresstree)
